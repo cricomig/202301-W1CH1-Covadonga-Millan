@@ -1,0 +1,14 @@
+{
+  "name": "202301-w1ch1-covadongam",
+  "version": "1.0.0",
+  "description": "1st challenge ISDI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculadora"
+  ],
+  "author": "Covadonga M",
+  "license": "ISC"
+}
